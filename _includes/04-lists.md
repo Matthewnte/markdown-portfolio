@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Going to the gym
+  * Mondays and Saturdays
+* Play football
+  * Saturdays
